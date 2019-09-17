@@ -1,7 +1,5 @@
 # SI507-HW03-endyke
 # SI507 HW 3 
-
- names, uniqnames, section number, and github IDs
  
  
  Name: Caitlin Endyke
